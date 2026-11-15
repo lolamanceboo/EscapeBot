@@ -24,7 +24,7 @@ Los drones están controlados por una IA. En cada turno comprueban qué hay en s
 
 ```
 docs/
-  Entrega1/    Primera entrega: memoria (PDF), diagramas UML y README de la entrega
+  Entrega1/    Primera entrega: memoria (PDF) y diagrama UML
 ```
 
 El proyecto de Unity se añadirá en la segunda parte.
